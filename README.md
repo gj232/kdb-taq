@@ -105,3 +105,8 @@ which would expose your application to various risks:
 
 Instead, download code and subject it to the version control and regression testing
 you use for your application.
+
+
+# Question 3, Capstone 2 
+
+1. Edit README.md for step 3 in section Capstone 2
