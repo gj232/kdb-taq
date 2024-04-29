@@ -114,3 +114,7 @@ you use for your application.
 # Question 3, 2nd commit 
 
 2. Edit for second commit for step 3 
+
+# Question 3, 3rd commit 
+
+3. Edit for the third commir for step 3 
