@@ -110,3 +110,7 @@ you use for your application.
 # Question 3, Capstone 2 
 
 1. Edit README.md for step 3 in section Capstone 2
+
+# Question 3, 2nd commit 
+
+2. Edit for second commit for step 3 
